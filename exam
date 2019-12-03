@@ -1,4 +1,4 @@
-1。猜数字
+1、猜数字
 class Solution {
     public int game(int[] guess, int[] answer) {
         int num = 0;
